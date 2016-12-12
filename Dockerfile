@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Vladimir Fesik <vladimir.fesik@novatum.com.ua>
+MAINTAINER Vladimir Fesik <xeon@forever.org.ua>
 
 
 ENV ORACLE_HOME /opt/oracle/instantclient_12_1
